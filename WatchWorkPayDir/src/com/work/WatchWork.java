@@ -1,4 +1,4 @@
-package com.yash.workpay;
+package com.work;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class WatchWorkPay {
+public class WatchWork {
 
 	
 	public static void main(String[] args)
